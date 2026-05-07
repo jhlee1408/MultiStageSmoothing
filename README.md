@@ -40,8 +40,11 @@ The benchmark methods implemented in the repository include:
 ## References
 
 MacDonald, P. W., Zhu, J., and Levina, E. (2025). Latent process models for functional network data. *Journal of Machine Learning Research*, 26.
+
 Zhang, Y., Levina, E., and Zhu, J. (2017). Estimating network edge probabilities by neighbourhood smoothing. *Biometrika*, 104(4), 771–783.
+
 Zhao, Z., Chen, L., and Lin, L. (2019). Change-point detection in dynamic networks via graphon estimation. *arXiv preprint arXiv:1908.01823*.
+
 Pensky, M. and Zhang, T. (2019). Spectral clustering in the dynamic stochastic block model. *Electronic Journal of Statistics*, 13(1), 678–709.
 
 
