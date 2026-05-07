@@ -22,21 +22,6 @@ The repository currently includes the following files:
 Due to GitHub file size limits, the data files are hosted externally.
 Data download link: https://drive.google.com/drive/folders/1nA_NM5FmrM-yKd8eoylqY472G_Rl7zXm?usp=share_link
 
-## Notes
-The simulation scripts are designed to reproduce the main numerical experiments in the paper, including:
-- Dynamic stochastic block models (DSBM)
-- Orthogonal DSBM settings
-- Dynamic random dot product graph (RDPG) models
-- Dynamic latent distance models
-
-The benchmark methods implemented in the repository include:
-- Proposed multi-stage smoothing method
-- Reversed multi-stage smoothing
-- FASE-based estimator
-- Pensky-Zhang estimator
-- Pooled smoothing estimator
-- Independent neighborhood smoothing estimator
-
 ## References
 
 MacDonald, P. W., Zhu, J., and Levina, E. (2025). Latent process models for functional network data. *Journal of Machine Learning Research*, 26.
