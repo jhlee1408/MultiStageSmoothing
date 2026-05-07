@@ -20,7 +20,7 @@ The repository currently includes the following files:
 
 ## Data
 Due to GitHub file size limits, the data files are hosted externally.
-Data download link: [https://drive.google.com/drive/folders/1nA_NM5FmrM-yKd8eoylqY472G_Rl7zXm?usp=share_link]
+Data download link: https://drive.google.com/drive/folders/1nA_NM5FmrM-yKd8eoylqY472G_Rl7zXm?usp=share_link
 
 ## Notes
 The simulation scripts are designed to reproduce the main numerical experiments in the paper, including:
