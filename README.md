@@ -12,9 +12,9 @@ The repository currently includes the following files:
 - `MultiStage_helper.R`  
   Helper functions for simulations, error calculations, data generation, matrix norms, and auxiliary utilities used throughout the experiments.
 - `MultiStage_simulation.R`  
-  Parallel simulation script for reproducing the numerical experiments under multiple dynamic network models.
+  Parallel simulation script for reproducing the numerical experiments under time-varying networks.
 - `DataExamples_preprocessing.R`  
-  Preprocessing pipeline for the real data examples analyzed in the paper.
+  Preprocessing for the real data examples analyzed in the paper.
 - `DataExamples_analysis.R`  
   Main analysis script for reproducing the real data applications and figures.
 
@@ -36,4 +36,12 @@ The benchmark methods implemented in the repository include:
 - Pensky-Zhang estimator
 - Pooled smoothing estimator
 - Independent neighborhood smoothing estimator
+
+## References
+
+MacDonald, P. W., Zhu, J., and Levina, E. (2025). Latent process models for functional network data. *Journal of Machine Learning Research*, 26.
+Zhang, Y., Levina, E., and Zhu, J. (2017). Estimating network edge probabilities by neighbourhood smoothing. *Biometrika*, 104(4), 771–783.
+Zhao, Z., Chen, L., and Lin, L. (2019). Change-point detection in dynamic networks via graphon estimation. *arXiv preprint arXiv:1908.01823*.
+Pensky, M. and Zhang, T. (2019). Spectral clustering in the dynamic stochastic block model. *Electronic Journal of Statistics*, 13(1), 678–709.
+
 
