@@ -22,7 +22,10 @@ The repository currently includes the following files:
 Due to GitHub file size limits, the data files are hosted externally.
 Data download link: https://drive.google.com/drive/folders/1nA_NM5FmrM-yKd8eoylqY472G_Rl7zXm?usp=share_link
 
+The U.S. Senate cosponsorship data used in this analysis are obtained from two sources. For the 93rd--108th Congresses (1973--2004), we use the Harvard Dataverse data from Fowler (2006). For the 109th Congress onward, we use the official BILLSTATUS bulk data from GovInfo: https://www.govinfo.gov/bulkdata/BILLSTATUS
+
 ## References
+Fowler, J. H. (2006). Connecting the Congress: A study of cosponsorship networks. *Political Analysis*, 14(4), 456--487.
 
 MacDonald, P. W., Zhu, J., and Levina, E. (2025). Latent process models for functional network data. *Journal of Machine Learning Research*, 26.
 
