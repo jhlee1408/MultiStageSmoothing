@@ -1,8 +1,10 @@
 # MultiStageSmoothing
-
-
-# MultiStage Smoothing for Dynamic Network Estimation
 This repository contains the code for simulations and data examples in our paper on multi-stage smoothing methods for dynamic network estimation.
+
+Nonparametric estimation of time-varying network connections by multi-stage smoothing, by Jeonghwan Lee, Tianxi Li, and Adam J. Rothman.
+
+Abstract: We consider the problem of estimating the underlying edge probabilities of a time-varying network observed at multiple time points. The probability structure is represented by a time-varying graphon that satisfies temporal Hölder smoothness and piecewise Lipschitz conditions in the latent variables. We propose a multi-stage smoothing estimator that first applies temporal local smoothing to each edge and then performs node-domain smoothing using a data-driven neighborhood construction. An additional temporal smoothing step is introduced as an optional refinement when uniform accuracy over the entire time domain is required. Simulation studies demonstrate the benefits of combining temporal and node-domain smoothing under different generative models. We also apply the method to a real time-varying network dataset and show that it captures both smooth temporal evolution and structural patterns in the connectivity. 
+
 
 The repository currently includes the following files:
 - `MultiStage_main.R`  
